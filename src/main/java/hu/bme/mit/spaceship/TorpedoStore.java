@@ -27,7 +27,7 @@ public class TorpedoStore {
         FAILURE_RATE = 0.0;
       }
     }
-   
+    //kuki
   }
 
   public boolean fire(int numberOfTorpedos){
